@@ -1,6 +1,4 @@
-Here's the improved **README.md** with a more organized and visually appealing structure:
 
----
 
 # 🚀 **Logistics Management Tool for Construction Products**  
 *Developed during my initiation internship at Luxor Technology and Trade*
@@ -79,11 +77,6 @@ logistics-management-tool/
 └── view_product.py             # View product details
 ```
 
----
-
-## 🙏 **Acknowledgments**
-
-A heartfelt thank you to **Mr. Aslem HAMDOUN**, Director of **Luxor Technology and Trade**, for his invaluable guidance and support throughout the internship.
 
 ---
 
@@ -91,17 +84,13 @@ A heartfelt thank you to **Mr. Aslem HAMDOUN**, Director of **Luxor Technology a
 
 If you have questions or feedback, feel free to reach out!  
 
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Email:** [Your Email Address]  
+- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/eya-benfredj/)]  
+- **Email:** [eyabenfredj20@gmail.com
+]  
 
----
 
-📝 **License:** This project is available under the MIT License.  
+
 
 ---
 
 ### ⭐ **If you find this project helpful, don't forget to star the repository!**
-
---- 
-
-This format ensures everything is neatly organized and easy to read. Let me know if you need any further changes!

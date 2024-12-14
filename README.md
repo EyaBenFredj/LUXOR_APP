@@ -78,6 +78,10 @@ logistics-management-tool/
 ```
 Dashboard
 ![dashboard](https://github.com/user-attachments/assets/afaf35b4-af01-4781-bbf5-a01ef40bfbed)
+![add](https://github.com/user-attachments/assets/c46f31f7-9aa3-4f98-a8b2-ec3172b8cdea)
+![delete](https://github.com/user-attachments/assets/5b6a0293-87fb-4b15-b196-1c6a9d9f24cc)
+![delete](https://github.com/user-attachments/assets/13c6d266-e590-4790-8759-f567f192a83b)
+![imprimer](https://github.com/user-attachments/assets/f4a0ad01-fca1-4016-861f-cb6bceb216b7)
 
 
 ---

@@ -76,6 +76,8 @@ logistics-management-tool/
 ├── utils.py                    # Utility functions
 └── view_product.py             # View product details
 ```
+Dashboard
+![dashboard](https://github.com/user-attachments/assets/afaf35b4-af01-4781-bbf5-a01ef40bfbed)
 
 
 ---

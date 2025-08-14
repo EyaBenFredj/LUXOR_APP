@@ -90,7 +90,7 @@ Dashboard
 
 If you have questions or feedback, feel free to reach out!  
 
-- **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/eya-benfredj/)]  
+- **LinkedIn:** [[My-Profile](https://www.linkedin.com/in/eya-benfredj/)]  
 - **Email:** [eyabenfredj20@gmail.com
 ]  
 
